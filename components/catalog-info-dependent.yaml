@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: yournamehere-service-dependency
+  name: hpatel-service-dependency
   description: |
     My Example service which has something to do with APIs and database.
   links:
@@ -37,7 +37,7 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - yournamehere
+    - hpatel
 spec:
   type: service
   owner: change-value
@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
-#  dependsOn:
-#    - component:default/yournamehere-service
+  dependsOn:
+    - component:default/hpatel-service
 #  system: yournamehere-system
