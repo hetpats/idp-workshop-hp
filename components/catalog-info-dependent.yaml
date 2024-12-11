@@ -40,7 +40,7 @@ metadata:
     - hpatel
 spec:
   type: service
-  owner: change-value
+  owner: hpatel
   lifecycle: experimental
   consumesApis:
     - spotify
