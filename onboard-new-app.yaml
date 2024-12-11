@@ -6,7 +6,7 @@ metadata:
   title: Provision a New Application Pattern
   description: Creates a new GitHub repository according to standardized application patterns
 spec:
-  owner: TeamA
+  owner: teama
   type: service
   # these are the steps which are rendered in the frontend with the form input
   parameters:
