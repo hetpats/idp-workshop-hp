@@ -37,16 +37,16 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - h_patel
+    - hpatel
 spec:
   type: service
-  owner: h_patel
+  owner: hpatel
   lifecycle: experimental
   consumesApis:
     - spotify
   providesApis:
     - petstore
-#  system: h_patel-system
+#  system: hpatel-system
 #  dependsOn:
-#    - component:default/h_patel-service
+#    - component:default/hpatel-service
 
