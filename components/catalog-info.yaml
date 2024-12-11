@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: h_patel-service
+  name:hpatel-service
   description: |
     My first service
   links:
